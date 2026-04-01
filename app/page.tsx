@@ -60,10 +60,7 @@ const ASSET_CLASSES = [
     name: "Shares (Equities)",
     desc: "Shares represent a fractional ownership stake in a publicly listed company. When accessed via CFDs, no actual ownership of shares takes place. The position profits or loses based purely on price movement, and leverage magnifies the risk.",
   },
-  {
-    name: "Cryptocurrencies",
-    desc: "Digital assets such as Bitcoin and Ethereum can be traded as CFDs on some platforms. Cryptocurrencies are exceptionally volatile, largely unregulated in many jurisdictions, and have experienced losses of 50-90% in short periods. They carry extreme risk.",
-  },
+
 ];
 
 const RISKS = [
